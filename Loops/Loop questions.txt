@@ -1,0 +1,18 @@
+----------------Loops Questions----------------
+Q.1 Print Hello World 100 times.
+Q.2 Print number from 1 to 10.
+Q.3 Print number from 1 to n.
+Q.4 print sum of first n natural number. (n=5)
+Q.5 Print square pattern
+    ****
+    ****
+    ****
+    ****
+Q.6 Print reverse of a number. (n=10899)
+Q.7 Reverse the given number. (n=10899)
+Q.8 Keep entering numbers till user enters a multiple of 10.
+Q.9 Display all numbers entered by user except multiples of 10.
+Q.10 Check if a number is prime or not.
+Q.11 Write a program that reads a set of integers and then prints the sum of the even and odd integers.
+Q.12 Write a program to find the factorial of any number entered by the user.
+Q.13 Write a print the multiplication table of a number N, entered by the user.
