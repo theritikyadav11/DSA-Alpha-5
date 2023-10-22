@@ -8,6 +8,6 @@ public class question12{
         for(int i=1;i<=n;i++){
             fact*=i;
         }
-        System.out.println("Factorial of "+n+" is :- "+fact);
+        System.out.println("Factorial of "+n+" is:- "+fact);
     }
 }
