@@ -1,0 +1,11 @@
+1.Bubble sort
+2.Selection sort
+3.Insertion sort
+4.Inbuilt sort
+5.Counting sort
+Q1.Use the following sorting algorithms to sort an array in DESCENDING order
+   (i)Bubble sort
+   (ii)Selection sort
+   (iii)Insertion sort
+   (iv)Counting sort
+   You can use this array as an example. [3,6,2,1,8,7,4,5,3,1]
