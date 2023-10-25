@@ -1,0 +1,11 @@
+1.Check if a number is odd or Even.
+2.Operations on Bit(get,set,clear,update)
+3.Clear Last i bits.
+4.Clear range of bits.
+5.Check if a number is a power of 2 or not.
+6.Count set bits in a number.
+7.Fast Exponentiation.
+Q1.whate is the value of x^x for any value of x?
+Q2.Swap two numbers without using any third variable.
+Q3.Add 1 to an integer using Bit manipulation.
+Q4.Convert uppercase characters to lowercase using bits.
