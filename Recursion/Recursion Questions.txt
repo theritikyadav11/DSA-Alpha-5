@@ -1,0 +1,29 @@
+Q1.Print numbers in descending order.
+Q2.Print numbers in Ascending order.(1-n)
+Q3.Find factorial fo a number n.
+Q4.Print sum of first n natural numbers.
+Q5.Print Nth fibonacci number.
+Q6.Check if a given array is sorted or not.[1,2,3,4,5]
+Q7.Write a function to find the first occurence of an element in an array.
+   arr[]={8,3,6,9,5,10,2,5,3}    key=5
+Q8.Write a function to find the last occurence of an element ina an array.
+   arr[]={8,3,6,9,5,10,2,5,3}    key=5
+Q9.Print x to the power n.  (2^10=1024)
+Q10.Print x to the power n.  (2^10=1024) in O(logN)
+Q11.Tilling problem***
+    Given a "2*n" board and tiles of size "2*1", count the number of ways to tile the given board using the 2*1 tiles.
+    (A tile can either be placed horizontally or vertically)
+Q12.Remove Duplicates in a String (appnnacollege).
+Q13.Friends Pairing Problem***
+    Given n friends, each one can remain single or can be paired up with some other friend. Each friend can be paired only      once. Find out the the total number of ways in which friends can remain single or can be paired up.
+Q14.Binary String problem**
+    Print all Binary strings of size N without consecutive ones.
+Problem1.For a given integer array of size N. You have to find all the occurences(indices) of a given element(key) and print them. Use a recursive function to solve          this problem.  arr[]={3,2,4,5,6,2,7,2,2}   key=2
+Problem2. You are given a number(eg-2019), convert it into a string of English like "Two Zero One Nine" Use a recursive function to solve this problem.
+         Note:-The digits of the nubmer will only be in the range 0-9 and the last digit of a number can't be 0.
+          Input:-1947   Output:-One Nine Four Seven
+Problem3.Write a program to find Length of a String using Recursion.
+Problem4. We are given a String S, We need to find the count of all contiguous substrings starting and ending with the same character.
+          Input:-S="abcab"   output:-7
+Problem5.Tower of Hanoi***(important)
+         You have 3 towers and N disks of differet sizes which ca slide onto any tower. The puzzle starts with disks sorted in ascending order of size form top to               bottom (i.e., each disk sits on top of an even larger one).  n=3
